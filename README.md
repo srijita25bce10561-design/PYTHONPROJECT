@@ -1,9 +1,10 @@
 1. Project Title :
    
-Typing Speed Calculator (Python Program)
+   Typing Speed Calculator (Python Program)
 
-2. Overview of the Project
-I have created a simple , beginner-friendly project on a “Typing Speed Calculator” using Python programming language. It checks how fast a user can type a given sentence. The program shows one random sentence, records the time the user takes to type it, and then calculates the typing speed in characters per second. It also compares the original text with the user-typed text and counts the number of mistakes.
+2. Overview of the Project :
+   
+   I have created a simple , beginner-friendly project on a “Typing Speed Calculator” using Python programming language. It checks how fast a user can type a given sentence. The program shows one random sentence,    records the time the user takes to type it, and then calculates the typing speed in characters per second. It also compares the original text with the user-typed text and counts the number of mistakes.
 
 3. Features of the Project:
 
@@ -22,14 +23,13 @@ I have created a simple , beginner-friendly project on a “Typing Speed Calcula
 
 4. Technologies / Tools Used :
 
-     Technology / Tool	                                                                                       Purpose
+       Technology / Tool	                                                                                    Purpose
          Python 3	                                                                                   Programming language used
-         time module	                                                                               Used to calculate typing time
+         time module	                                                                                Used to calculate typing time
          random module	                                                                             Used to select a random sentence                                                                       
-         Basic string operations	                                                                   For comparing characters and detecting errors
-                                                             
-         Any code editor (VS Code/
-         PyCharm / IDLE)	                                                                           For writing and running the program.
+         Basic string operations	                                                                    For comparing characters and detecting errors
+         Any code editor( VS Code / IDLE / Pycharm)                                                  For writing and running the program                               
+   
                                                             
 5. Steps to Install and Run the Project :
    
