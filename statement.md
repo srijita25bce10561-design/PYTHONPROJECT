@@ -15,13 +15,16 @@ The scope of the typing speed calculator project includes :
 TARGET USERS: 
 
 The primary users targetted to learn the project are: 
+
     A) Students: 
        The B.Tech 1st year CSE students or students learning Python who want to practice typing are the main targetted users here. 
+       
     B) Teachers and Instructors:
        the target users are also the educators who need a simple tool to demonstrate:
        i) usage of time function and time module
        ii)string comparison
        iii)loops
+       
     C) Anyone interested in Typing Skill improvement:
        The target users are also general users who want a quick and simple way to check their typing speed without any complex software.
 
