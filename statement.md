@@ -7,9 +7,13 @@ This project solves this problem by providing a simple command-line typing speed
 SCOPE OF THE PROJECT:
 
 The scope of the typing speed calculator project includes : 
+
       A) The user gets a randomly selected sentence to type.
+      
       B) The user gets to know how much total time he or she has taken to type the sentence.
-      C) This project detects and displays mistakes by comparing user input with the original sentence. 
+      
+      C) This project detects and displays mistakes by comparing user input with the original sentence.
+      
       D) The project has been designed in such a manner that it provides a simple , terminal based interface suitable for begineers.
 
 TARGET USERS: 
